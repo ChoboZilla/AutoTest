@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="suite2">
+    <test name="WebDriver tests">
+        <packages>
+            <package name="edu.homework2"/>
+        </packages>
+    </test>
+</suite>
