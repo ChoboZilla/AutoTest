@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "lab4suite">
+    <test name = "WebDriver tests" preserve-order="true">
+        <packages>
+            <package name = "org.example.lab4"/>
+        </packages>
+    </test>
+</suite>
